@@ -1,0 +1,22 @@
+{
+    "name": "clintwinter/laravel-dto",
+    "autoload": {
+        "psr-4": {
+            "Clintwinter\\LaravelDto\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clint Winter",
+            "email": "ClintWinter@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^8.5"
+    }
+}
